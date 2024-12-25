@@ -21,3 +21,4 @@ const Hero = () => {
   
   export default Hero;
   
+  // this is hero section
